@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yulia
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning SQL, Python, Math and Statistics
-- 💞️ I’m looking to collaborate on something? anything? nothing?
+- 🌱 I’m currently learning SQL, Python, Math and Statistics and Probability
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: https://www.linkedin.com/in/muryulia/
 
 <!---
